@@ -63,9 +63,9 @@ Tools: Kafka, Amazon EC2, Amazon S3, Crawler, AWS Glue Datalog, Amazon Athena, G
 
 Created a dynamic Snake Game using Tkinter, showcasing skills in GUI programming and event handling. Excels in problem-solving, logical thinking, and attention to detail
 
-[Pong Game- AI--using Python and Neat](assets/Python Pong Game-AI.mp4)
+# Pong Game- AI--using Python and Neat
 
-![Sample](assets/PythonPongGame-AI.gif)
+![Sample](Python Pong Game-AI.mp4)
 
 Utilizing the NEAT (NeuroEvolution of Augmenting Topologies) algorithm, an AI model is trained to play Pong in Python. NEAT evolves neural networks, enhancing their structure and weights over generations. The trained AI learns to play Pong autonomously through reinforcement learning, optimizing its performance to maximize gameplay proficiency.
 
