@@ -36,7 +36,7 @@ Jenkins, JIRA, Confluence, Tableau, Power BI, GitHub, Git, RESTful, Splunk, Prom
 <br/>
 <h3 align="left">PROJECTS:</h3>
 
-### [Movie Recommendation Engine]( https://mrs-sg-bfc2e6fa78db.herokuapp.com/)
+### [1. Movie Recommendation Engine]( https://mrs-sg-bfc2e6fa78db.herokuapp.com/)
 
 ![MRS](MRSSample.png)
 
@@ -45,25 +45,25 @@ Skills: Machine Learning, Natural Language Processing (NLP), Python Programming,
 Management Systems, API Integration, Model Evaluation, Data Visualisation
 Tools: Scikit-learn, TensorFlow, NLTK, Pandas, NumPy, TF-IDF Vectorizer, Jupyter Notebooks, PyCharm, Flask, GitHub
 
-### [Data Visualization projects]( https://public.tableau.com/app/profile/santhosh.guntupalli/vizzes )
+### [2, Data Visualization projects]( https://public.tableau.com/app/profile/santhosh.guntupalli/vizzes )
 
 Produced diverse data visualizations across my professional tenure and academic endeavors.
 Skills: Data Analysis, Visualization Design, Statistical Knowledge, Storytelling with Data, Critical Thinking, Domain Knowledge
 Tools: Matplotlib, Tableau, Pandas, Python, SQL, NoSQL, Git, GitHub,
 
-### [Real time Stock Market Analysis]( https://github.com/guntupalli09/stock_market-real_time-analysis )
+### [3. Real time Stock Market Analysis]( https://github.com/guntupalli09/stock_market-real_time-analysis )
 
 Real-time stock market analysis providing live trend indicators for informed investment decisions
 Skills: Data Streaming, Cloud Services, Data Processing, Data Warehousing, API Integration, Model Evaluation
 Tools: Kafka, Amazon EC2, Amazon S3, Crawler, AWS Glue Datalog, Amazon Athena, GitHub, jupyter notebook
 
-### Snake Game With Python
+### 4. Snake Game With Python
 
 ![Sample](PythonSnakeGame.gif)
 
 Created a dynamic Snake Game using Tkinter, showcasing skills in GUI programming and event handling. Excels in problem-solving, logical thinking, and attention to detail
 
-### Pong Game- AI--using Python and Neat
+### 5. Pong Game- AI--using Python and Neat
 
 ![Sample](PythonPongGame-AI.gif)
 
