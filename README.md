@@ -2,7 +2,7 @@
 
 <h3 align="center">Data Engineer</h3>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=guntupalli09&label=Profile%20views&color=0e75b6&style=flat" alt="santhoshguntupalli" /> </p>
-<p>&#x2022; img align="center" src="satisfaction.png" alt="santhoshguntupalli" height="30" width="40" />I worked as Data Engineer & also interested in -> <strong> Cloud Engineer / Data Scientist / Data Analyst.</strong></p>
+<p>&#x2022;<img align="center" src="satisfaction.png" alt="santhoshguntupalli" height="30" width="40" />I worked as Data Engineer & also interested in -> <strong> Cloud Engineer / Data Scientist / Data Analyst.</strong></p>
 <p>&#x2022; 🤝  I worked at -> <strong>LTIMindtree & Mphasis as a Data Engineer.</strong></p>
 <p>&#x2022; 💞️ Technical Slack -> <strong>
   
