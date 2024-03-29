@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I’m Santhosh Guntupalli</h1>
 
 <h3 align="center">Data Engineer</h3>
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=guntupalli09&label=Profile%20views&color=0e75b6&style=flat" alt="valusanikil" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=guntupalli09&label=Profile%20views&color=0e75b6&style=flat" alt="santhoshguntupalli" /> </p>
 <p>&#x2022; 🔭 I worked as Software Engineer & interested in -> <strong>Java Developer / Java Microservices Developer / Java Backend Development / Full Stack Development.</strong></p>
 <p>&#x2022; 🤝 I worked at -> <strong>LTIMindtree as a Java Full Stack Developer.</strong></p>
 <p>&#x2022; 💞️ My Skills -> <strong>C, Java, Spring, Spring Boot, Spring WebFlux, Microservices, HTML, CSS, JS, Angular, MYSQL, Maven, Junit, Docker.</strong></p>
