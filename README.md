@@ -38,8 +38,7 @@ Jenkins, JIRA, Confluence, Tableau, Power BI, GitHub, Git, RESTful, Splunk, Prom
 
 ### [1. Movie Recommendation Engine]( https://mrs-sg-bfc2e6fa78db.herokuapp.com/)
 
-![MRS](MRSSample.png)
-<img align="center" src="MRSSample.png" alt="santhoshguntupalli" height="250" width="450" /><strong>Portfolio</strong></a></p>
+<img align="center" src="MRSSample.png" alt="santhoshguntupalli" height="250" width="450" />
 Created a Movie Recommendation System that suggests films based on a chosen movie selection.
 Skills: Machine Learning, Natural Language Processing (NLP), Python Programming, Feature Engineering, Recommendation Systems. Data Pre-processing, Database 
 Management Systems, API Integration, Model Evaluation, Data Visualisation
@@ -60,6 +59,8 @@ Tools: Kafka, Amazon EC2, Amazon S3, Crawler, AWS Glue Datalog, Amazon Athena, G
 ### 4. Snake Game With Python
 
 ![Sample](PythonSnakeGame.gif)
+
+<img align="center" src="PythonSnakeGame.gif" alt="santhoshguntupalli" height="250" width="450" />
 
 Created a dynamic Snake Game using Tkinter, showcasing skills in GUI programming and event handling. Excels in problem-solving, logical thinking, and attention to detail
 
