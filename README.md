@@ -14,7 +14,7 @@ Bigdata Technologies: Apache Kafka, Apache Spark, Apache Flink, Apache Hadoop, A
 
 Development and Tools: Docker, Kubernetes, Jenkins, Git, GitHub, REST API, Unix
 
-Machine Leaning and AI: Scikit-learn, TensorFlow, Predictive Analysis, NLP.</strong></p>
+Machine Leaning and AI: Scikit-learn, TensorFlow, Predictive Analysis, Staristical Analysis, NLP.</strong></p>
 <p>&#x2022; 📝 Checkout my -> <a href="https://drive.google.com/file/d/1dSZYRuL6YfdfaIGKo2jfa1t0qKAXwB9C/view?usp=drivesdk"><strong>resume</strong></a></p>
 <p>&#x2022; 📝 Checkout my -> <a href="https://guntupalli09.github.io/Santhosh_Guntupalli.github.io/"><strong>Portfolio</strong></a></p>
 <p>&#x2022; 📝 Checkout my -> <a href="https://public.tableau.com/app/profile/santhosh.guntupalli/vizzes"><strong>Data Visualisations/ Tableau</strong></a></p>
