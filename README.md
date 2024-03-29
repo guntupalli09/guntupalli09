@@ -57,7 +57,7 @@ Real-time stock market analysis providing live trend indicators for informed inv
 Skills: Data Streaming, Cloud Services, Data Processing, Data Warehousing, API Integration, Model Evaluation
 Tools: Kafka, Amazon EC2, Amazon S3, Crawler, AWS Glue Datalog, Amazon Athena, GitHub, jupyter notebook
 
-![Snake Game With Python](assets/PythonSnakeGame.gif)
+[Snake Game With Python](assets/PythonSnakeGame.gif)
 
 ![Sample](assets/PythonSnakeGame.gif)
 
