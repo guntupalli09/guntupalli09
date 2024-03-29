@@ -4,7 +4,8 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=guntupalli09&label=Profile%20views&color=0e75b6&style=flat" alt="santhoshguntupalli" /> </p>
 <p>&#x2022; 🔭 I worked as Software Engineer & interested in -> <strong>Java Developer / Java Microservices Developer / Java Backend Development / Full Stack Development.</strong></p>
 <p>&#x2022; 🤝 I worked at -> <strong>LTIMindtree as a Java Full Stack Developer.</strong></p>
-<p>&#x2022; 💞️ My Skills -> <strong>
+<p>&#x2022; 💞️ #Technical Slack -> <strong>
+  
 Languages: Python, SQL, C++, C
 
 Cloud Technologies: AWS, GCP, Azure
