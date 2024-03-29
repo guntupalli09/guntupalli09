@@ -34,11 +34,11 @@ Jenkins, JIRA, Confluence, Tableau, Power BI, GitHub, Git, RESTful, Splunk, Prom
 </a>
 
 <br/>
-<h3 align="right">PROJECTS:</h3>
+<h3 align="left">PROJECTS:</h3>
 
 ### [1. Movie Recommendation Engine]( https://mrs-sg-bfc2e6fa78db.herokuapp.com/)
 
-<img align="center" src="MRSSample.png" alt="santhoshguntupalli" height="250" width="450" />
+<img align="center" src="MRSSample.png" alt="santhoshguntupalli" height="200" width="400" />
 Created a Movie Recommendation System that suggests films based on a chosen movie selection.
 Skills: Machine Learning, Natural Language Processing (NLP), Python Programming, Feature Engineering, Recommendation Systems. Data Pre-processing, Database 
 Management Systems, API Integration, Model Evaluation, Data Visualisation
