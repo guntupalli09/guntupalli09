@@ -34,51 +34,43 @@ Jenkins, JIRA, Confluence, Tableau, Power BI, GitHub, Git, RESTful, Splunk, Prom
 </a>
 
 <br/>
-### Projects
+<h3 align="left">PROJECTS:</h3>
 
-# [Movie Recommendation Engine]( https://mrs-sg-bfc2e6fa78db.herokuapp.com/)
+[Movie Recommendation Engine]( https://mrs-sg-bfc2e6fa78db.herokuapp.com/)
 
 ![MRS](assets/MRS Sample.png)
 
 Created a Movie Recommendation System that suggests films based on a chosen movie selection.
-
 Skills: Machine Learning, Natural Language Processing (NLP), Python Programming, Feature Engineering, Recommendation Systems. Data Pre-processing, Database 
 Management Systems, API Integration, Model Evaluation, Data Visualisation
-
 Tools: Scikit-learn, TensorFlow, NLTK, Pandas, NumPy, TF-IDF Vectorizer, Jupyter Notebooks, PyCharm, Flask, GitHub
 
-# [Data Visualization projects]( https://public.tableau.com/app/profile/santhosh.guntupalli/vizzes )
+[Data Visualization projects]( https://public.tableau.com/app/profile/santhosh.guntupalli/vizzes )
 
 Produced diverse data visualizations across my professional tenure and academic endeavors.
-
 Skills: Data Analysis, Visualization Design, Statistical Knowledge, Storytelling with Data, Critical Thinking, Domain Knowledge
-
 Tools: Matplotlib, Tableau, Pandas, Python, SQL, NoSQL, Git, GitHub,
 
-# [Real time Stock Market Analysis]( https://github.com/guntupalli09/stock_market-real_time-analysis )
+[Real time Stock Market Analysis]( https://github.com/guntupalli09/stock_market-real_time-analysis )
 
 Real-time stock market analysis providing live trend indicators for informed investment decisions
-
 Skills: Data Streaming, Cloud Services, Data Processing, Data Warehousing, API Integration, Model Evaluation
-
 Tools: Kafka, Amazon EC2, Amazon S3, Crawler, AWS Glue Datalog, Amazon Athena, GitHub, jupyter notebook
 
-# [Snake Game With Python](assets/Python Snake Game.mp4)
+[Snake Game With Python](assets/Python Snake Game.mp4)
 
 ![Sample](assets/PythonSnakeGame.gif)
 
-
-
 Created a dynamic Snake Game using Tkinter, showcasing skills in GUI programming and event handling. Excels in problem-solving, logical thinking, and attention to detail
 
-# [Pong Game- AI--using Python and Neat](assets/Python Pong Game-AI.mp4)
+[Pong Game- AI--using Python and Neat](assets/Python Pong Game-AI.mp4)
 
 ![Sample](assets/PythonPongGame-AI.gif)
 
 Utilizing the NEAT (NeuroEvolution of Augmenting Topologies) algorithm, an AI model is trained to play Pong in Python. NEAT evolves neural networks, enhancing their structure and weights over generations. The trained AI learns to play Pong autonomously through reinforcement learning, optimizing its performance to maximize gameplay proficiency.
 
+<h3 align="left">Certifications:</h3>
 
-### Certifications
 1. META Database Structures and Management with MySQL
 2. META Version Control
 3. META Advanced MySQL
