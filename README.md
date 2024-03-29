@@ -4,17 +4,22 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=guntupalli09&label=Profile%20views&color=0e75b6&style=flat" alt="santhoshguntupalli" /> </p>
 <p>&#x2022; 🔭 I worked as Data Engineer & als interested in -> <strong> Cloud Engineer / Data Scientist / Data Analyst.</strong></p>
 <p>&#x2022; 🤝 I worked at -> <strong>LTIMindtree & Mphasis as a Data Engineer.</strong></p>
-<p>&#x2022; 💞️ # Technical Slack -> <strong>
+<p>&#x2022; 💞️ Technical Slack -> <strong>
   
-Languages: Python, SQL, C++, C
+Programming Languages/Frameworks:
+Python, Java, JavaScript, C, C#, C++, Scala, R, Shell Scripting, Golang
 
-Cloud Technologies: AWS, GCP, Azure
+Cloud Technologies:
+AWS, GCP, Azure, Snowflake, Oracle, Docker, Kubernetes
 
-Bigdata Technologies: Apache Kafka, Apache Spark, Apache Flink, Apache Hadoop, Apache Flume, Apache Nifi
+Big Data and Data Engineering Tools/Services:
+Spark, Kafka, Hadoop, Hive, Airflow, HBase, Nifi, Teradata, Amazon RedShift, MapReduce, Flume, Flink, Informatica, Talend, AWS Glue, Amazon S3, Databricks, Azure Data Factory (ADF), Synapse Analytics, Trifacta, JSON, Avro, Parquet, ORC, XML, Protobuf, ELK Stack, PostgreSQL, MongoDB, Google BigQuery, Elasticsearch, HDFS, Metastore
 
-Development and Tools: Docker, Kubernetes, Jenkins, Git, GitHub, REST API, Unix
+Machine Learning:
+TensorFlow, PyTorch, scikit-learn, PySpark, NLTK, LLM’s (assuming this refers to language model libraries, e.g., OpenAI's GPT)
 
-Machine Leaning and AI: Scikit-learn, TensorFlow, Predictive Analysis, Staristical Analysis, NLP.</strong></p>
+DevOps, Monitoring, and Other Tools/Services:
+Jenkins, JIRA, Confluence, Tableau, Power BI, GitHub, Git, RESTful, Splunk, Prometheus, PowerShell, Linux, UI/UX, Bash, Pub/Sub, Jupyter Notebooks, PyCharm.</strong></p>
 
 <p>&#x2022; 📝 Checkout my -> <a href="https://guntupalli09.github.io/Santhosh_Guntupalli.github.io/"><strong>Portfolio</strong></a></p>
 <p>&#x2022; 📝 Checkout my -> <a href="https://public.tableau.com/app/profile/santhosh.guntupalli/vizzes"><strong>Data Visualisations/ Tableau</strong></a></p>
