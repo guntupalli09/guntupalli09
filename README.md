@@ -22,7 +22,7 @@ TensorFlow, PyTorch, scikit-learn, PySpark, NLTK, LLM’s
 Jenkins, JIRA, Confluence, Tableau, Power BI, GitHub, Git, RESTful, Splunk, Prometheus, PowerShell, Linux, UI/UX, Bash, Pub/Sub, Jupyter Notebooks, PyCharm.</strong></p>
 
 <p>&#x2022; 📝 Checkout my -> <a href="https://guntupalli09.github.io/Santhosh_Guntupalli.github.io/"><img align="center" src="portfolio.png" alt="santhoshguntupalli" height="30" width="40" /><strong>Portfolio</strong></a></p>
-<p>&#x2022; 📝 Checkout my -> <a href="https://public.tableau.com/app/profile/santhosh.guntupalli/vizzes"><strong>Data Visualisations/ Tableau</strong></a></p>
+<p>&#x2022; 📝 Checkout my -> <a href="https://public.tableau.com/app/profile/santhosh.guntupalli/vizzes"><img align="center" src="visualisation.png" alt="santhoshguntupalli" height="30" width="40" /><strong>Data Visualisations/ Tableau</strong></a></p>
 <p>&#x2022; 📫 How to reach me -> <a href="mailto:santhosh.guntupalli09@gmail.com"><img align="center" src="https://user-images.githubusercontent.com/56149197/218254506-dd38dc25-4dc9-4f24-be93-d05a7be9c3d6.png" alt="santhoshguntupalli" height="30" width="40" /><strong>santhosh.guntupalli09@gmail.com</strong></a></p>
 
 <h3 align="left">Connect with me:</h3>
