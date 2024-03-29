@@ -58,15 +58,13 @@ Tools: Kafka, Amazon EC2, Amazon S3, Crawler, AWS Glue Datalog, Amazon Athena, G
 
 ### 4. Snake Game With Python
 
-![Sample](PythonSnakeGame.gif)
-
 <img align="center" src="PythonSnakeGame.gif" alt="santhoshguntupalli" height="200" width="400" />
 
 Created a dynamic Snake Game using Tkinter, showcasing skills in GUI programming and event handling. Excels in problem-solving, logical thinking, and attention to detail
 
 ### 5. Pong Game- AI--using Python and Neat
 
-![Sample](PythonPongGame-AI.gif)
+<img align="center" src="PythonPongGame-AI.gif" alt="santhoshguntupalli" height="200" width="400" />
 
 Utilizing the NEAT (NeuroEvolution of Augmenting Topologies) algorithm, an AI model is trained to play Pong in Python. NEAT evolves neural networks, enhancing their structure and weights over generations. The trained AI learns to play Pong autonomously through reinforcement learning, optimizing its performance to maximize gameplay proficiency.
 
