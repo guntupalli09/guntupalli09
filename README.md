@@ -11,7 +11,7 @@ Python, Java, JavaScript, C, C#, C++, Scala, R, Shell Scripting, Golang
 ### Cloud Technologies <img align="center" src="cloud.png" alt="santhoshguntupalli" height="30" width="40" />:
 AWS, GCP, Azure, Snowflake, Oracle, Docker, Kubernetes
 
-### Big Data and Data Engineering Tools/Services <img align="center" src=".png" alt="santhoshguntupalli" height="30" width="40" />:
+### Big Data and Data Engineering Tools/Services <img align="center" src="big-data.png" alt="santhoshguntupalli" height="30" width="40" />:
 Spark, Kafka, Hadoop, Hive, Airflow, HBase, Nifi, Teradata, Amazon RedShift, MapReduce, Flume, Flink, Informatica, Talend, AWS Glue, Amazon S3, Databricks, Azure Data Factory (ADF), Synapse Analytics, Trifacta, JSON, Avro, Parquet, ORC, XML, Protobuf, ELK Stack, PostgreSQL, MongoDB, Google BigQuery, Elasticsearch, HDFS, Metastore
 
 ### Machine Learning<img align="center" src="machine-learning.png" alt="santhoshguntupalli" height="30" width="40" />:
