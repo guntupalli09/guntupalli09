@@ -62,6 +62,14 @@ Tools: Kafka, Amazon EC2, Amazon S3, Crawler, AWS Glue Datalog, Amazon Athena, G
 
 Created a dynamic Snake Game using Tkinter, showcasing skills in GUI programming and event handling. Excels in problem-solving, logical thinking, and attention to detail
 
+
+
+
+
+
+
+
+
 ### 5. Pong Game- AI--using Python and Neat
 
 <img align="left" src="PythonPongGame-AI.gif" alt="santhoshguntupalli" height="200" width="400" />
