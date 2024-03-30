@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I’m Santhosh Guntupalli</h1> 
 <h3 align="center">Data Engineer</h3>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=guntupalli09&label=Profile%20views&color=0e75b6&style=flat" alt="santhoshguntupalli" /> </p>
-<p>&#x2022;<img align="center" src="satisfaction.png" alt="santhoshguntupalli" height="30" width="40" /> I worked as Data Engineer & also interested in -> <strong> Cloud Engineer / Data Scientist / Data Analyst.</strong></p>
+<p>&#x2022;<img align="center" src="satisfaction.png" alt="santhoshguntupalli" height="30" width="40" /> I worked as Data Engineer & also interested in -> <strong> Cloud Engineer / Data Scientist roles.</strong></p>
 <p>&#x2022; 🤝  I worked at -> <strong>LTIMindtree & Mphasis as a Data Engineer.</strong></p>
 <p>&#x2022; <img align="center" src="pencil.png" alt="santhoshguntupalli" height="30" width="40" /> Technical Slack -> <strong>
   
@@ -58,7 +58,7 @@ Tools: Kafka, Amazon EC2, Amazon S3, Crawler, AWS Glue Datalog, Amazon Athena, G
 
 ### 4. Snake Game With Python
 
-<img align="center" src="PythonSnakeGame.gif" alt="santhoshguntupalli" height="200" width="400" />
+<img align="right" src="PythonSnakeGame.gif" alt="santhoshguntupalli" height="200" width="400" />
 
 Created a dynamic Snake Game using Tkinter, showcasing skills in GUI programming and event handling. Excels in problem-solving, logical thinking, and attention to detail
 
