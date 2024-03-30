@@ -5,16 +5,16 @@
 <p>&#x2022; 🤝  I worked at -> <strong>LTIMindtree & Mphasis as a Data Engineer.</strong></p>
 <p>&#x2022; <img align="center" src="pencil.png" alt="santhoshguntupalli" height="30" width="40" /> Technical Slack -> <strong>
   
-### Programming Languages/Frameworks:
+### Programming Languages/Frameworks <img align="center" src="visualisation.png" alt="santhoshguntupalli" height="30" width="40" />:
 Python, Java, JavaScript, C, C#, C++, Scala, R, Shell Scripting, Golang
 
-### Cloud Technologies:
+### Cloud Technologies <img align="center" src="visualisation.png" alt="santhoshguntupalli" height="30" width="40" />:
 AWS, GCP, Azure, Snowflake, Oracle, Docker, Kubernetes
 
-### Big Data and Data Engineering Tools/Services:
+### Big Data and Data Engineering Tools/Services <img align="center" src="visualisation.png" alt="santhoshguntupalli" height="30" width="40" />:
 Spark, Kafka, Hadoop, Hive, Airflow, HBase, Nifi, Teradata, Amazon RedShift, MapReduce, Flume, Flink, Informatica, Talend, AWS Glue, Amazon S3, Databricks, Azure Data Factory (ADF), Synapse Analytics, Trifacta, JSON, Avro, Parquet, ORC, XML, Protobuf, ELK Stack, PostgreSQL, MongoDB, Google BigQuery, Elasticsearch, HDFS, Metastore
 
-### Machine Learning:
+### Machine Learning<img align="center" src="visualisation.png" alt="santhoshguntupalli" height="30" width="40" />:
 TensorFlow, PyTorch, scikit-learn, PySpark, NLTK, LLM’s 
 
 ### DevOps, Monitoring, and Other Tools/Services:
@@ -76,6 +76,7 @@ Utilizing the NEAT (NeuroEvolution of Augmenting Topologies) algorithm, an AI mo
 4. Prompt Engineering For Chatgpt - Vanderblit University
 5. IBM Exploratory Data Analysis for Machine Learning
 6. Machine Learning Specialisation - University of Washington
+
 <h3 align="left">My GitHub Stats:</h3>
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=guntupalli09&show_icons=true&theme=tokyonight)
