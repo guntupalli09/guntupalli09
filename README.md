@@ -14,10 +14,10 @@ AWS, GCP, Azure, Snowflake, Oracle, Docker, Kubernetes
 ### Big Data and Data Engineering Tools/Services <img align="center" src="big-data.png" alt="santhoshguntupalli" height="30" width="40" />:
 Spark, Kafka, Hadoop, Hive, Airflow, HBase, Nifi, Teradata, Amazon RedShift, MapReduce, Flume, Flink, Informatica, Talend, AWS Glue, Amazon S3, Databricks, Azure Data Factory (ADF), Synapse Analytics, Trifacta, JSON, Avro, Parquet, ORC, XML, Protobuf, ELK Stack, PostgreSQL, MongoDB, Google BigQuery, Elasticsearch, HDFS, Metastore
 
-### Machine Learning<img align="center" src="machine-learning.png" alt="santhoshguntupalli" height="30" width="40" />:
+### Machine Learning <img align="center" src="machine-learning.png" alt="santhoshguntupalli" height="30" width="40" />:
 TensorFlow, PyTorch, scikit-learn, PySpark, NLTK, LLM’s 
 
-### DevOps, Monitoring, and Other Tools/Services<img align="center" src="tool-box.png" alt="santhoshguntupalli" height="30" width="40" />:
+### DevOps, Monitoring, and Other Tools/Services <img align="center" src="tool-box.png" alt="santhoshguntupalli" height="30" width="40" />:
 Jenkins, JIRA, Confluence, Tableau, Power BI, GitHub, Git, RESTful, Splunk, Prometheus, PowerShell, Linux, UI/UX, Bash, Pub/Sub, Jupyter Notebooks, PyCharm.</strong></p>
 
 <p>&#x2022; 📝 Checkout my -> <a href="https://guntupalli09.github.io/Santhosh_Guntupalli.github.io/"><img align="center" src="portfolio.png" alt="santhoshguntupalli" height="30" width="40" /> 
