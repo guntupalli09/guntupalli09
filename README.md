@@ -9,7 +9,7 @@
 
 ## 🔍 About Me
 
-- <img src="satisfaction.png" height="25" /> Data Engineer with strong interests in **Cloud Engineering**, **Data Science**  and **Artificial Intelligence**
+- <img src="satisfaction.png" height="25" /> Versatile Data Engineer with a strong foundation in Business Intelligence, Data Analysis, and Cloud Engineering, coupled with a deep passion for Data Science, Machine Learning, and Artificial Intelligence. Adept at building scalable data pipelines, driving insights through analytics, and deploying intelligent solutions that bridge the gap between raw data and strategic business outcomes. Proven ability to work across the data lifecycle — from data modeling and ETL processes to machine learning model deployment and AI-powered automation. Continuously exploring innovations at the intersection of data and intelligence to deliver impactful solutions.
 
 
 ---
