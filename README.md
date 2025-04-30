@@ -54,7 +54,7 @@ Jenkins, GitHub, Git, JIRA, Confluence, REST APIs, Tableau, Power BI, Prometheus
 
 ## 🚀 Featured Projects
 
-### 1. GhostWriter Teams
+### 1. 👥 GhostWriter Teams
 
 <table>
 <tr>
@@ -77,7 +77,7 @@ Features five specialized AI agents simulating a real team for creative collabor
 
 ---
 
-### 2. GetGetLeads – AI Digital Marketing Agent
+### 2. 🚀 GetGetLeads – AI Digital Marketing Agent
 
 <table>
 <tr>
@@ -101,7 +101,7 @@ A marketing assistant for lead generation, campaign automation, and analytics �
 
 ---
 
-### 3. GetGetPlaces – AI Travel Agent
+### 3. ✈️ GetGetPlaces – AI Travel Agent
 
 <table>
 <tr>
@@ -125,7 +125,7 @@ An intelligent travel planner using natural language, live weather data, and ML 
 
 ---
 
-### 4. [Movie Recommendation Engine](https://mrs-sg-bfc2e6fa78db.herokuapp.com/)
+### 4. 🎬 [Movie Recommendation Engine](https://mrs-sg-bfc2e6fa78db.herokuapp.com/)
 
 <table>
 <tr>
@@ -143,19 +143,19 @@ scikit-learn, TensorFlow, NLTK, Flask, Pandas, Jupyter, Feature Engineering
 
 ---
 
-### 5. [Data Visualization Projects](https://public.tableau.com/app/profile/santhosh.guntupalli/vizzes)
+### 5. 📊 [Data Visualization Projects](https://public.tableau.com/app/profile/santhosh.guntupalli/vizzes)
 
 A portfolio of Tableau dashboards focused on domain knowledge, storytelling, and design.
 
 ---
 
-### 6. [Real-Time Stock Market Analysis](https://github.com/guntupalli09/stock_market-real_time-analysis)
+### 6. 📈 [Real-Time Stock Market Analysis](https://github.com/guntupalli09/stock_market-real_time-analysis)
 
 Live stock market insights using streaming data pipelines built on Kafka, AWS EC2, Glue, Athena.
 
 ---
 
-### 7. Snake Game – Python GUI
+### 7. 🐍 Snake Game – Python GUI
 
 <table>
 <tr>
@@ -171,7 +171,7 @@ Demonstrates problem-solving and real-time interactions.
 
 ---
 
-### 8. Pong Game AI – NEAT Algorithm
+### 8. 🏓 Pong Game AI – NEAT Algorithm
 
 <table>
 <tr>
