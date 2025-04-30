@@ -43,11 +43,28 @@ An AI-powered creative marketing workspace — driven by multi-agent collaborati
 ### 2. GetGetLeads - AI Digital Marketing Agent
 <img align="right" src="dashboard-GGL.png" alt="santhoshguntupalli" height="200" width="400" />
 AI-powered marketing assistant** for marketers, founders, and teams who want to drive growth without juggling ten tools. GetGetLeads brings lead generation, analytics, campaign automation, and more into one sleek, intelligent dashboard.
+✨ Features
+🧲 Lead Generation – Capture and qualify leads with AI-powered forms and prompts
+📈 Analytics – Visual dashboards to track campaign performance and customer insights
+🔍 SEO Tools – Boost your visibility with site health tracking and recommendations
+🏷️ Keyword Tracking – Monitor keyword positions and performance over time
+💬 Customer Management – Organize leads, track interactions, and follow up seamlessly
+💸 Budget Management – Visualize spend across tools, ads, and campaigns
+📅 Campaign Automation – Schedule posts and emails across channels in one place
 
 ### 3. GetGetplace - AI Travel Agent
 <img align="right" src="Homepage-GGP.png" alt="santhoshguntupalli" height="200" width="400" />
 From idea to itinerary — AI-crafted travel made effortless.
 Your personal AI agent to plan smart, weather-aware, budget-friendly trips — effortlessly.
+Features
+Natural Language Understanding — Just tell it: “Plan a 5-day Miami trip with $1500 for food & beaches”
+Dynamic Weather Check — Real-time forecasts from OpenWeatherMap
+Distance & Travel Time Calculation — Smart routing between attractions
+AI-Powered Itinerary — Personalized daily plans with hotels, restaurants, and must-visit spots
+Price Prediction — ARIMA-based future price forecasts
+Intelligent Recommendations — Machine learning model for tailored suggestions
+Database-Ready — PostgreSQL backend for trips, users, hotels & cars
+
 ### [4. Movie Recommendation Engine]( https://mrs-sg-bfc2e6fa78db.herokuapp.com/)
 
 <img align="right" src="MRSSample.png" alt="santhoshguntupalli" height="200" width="400" />
