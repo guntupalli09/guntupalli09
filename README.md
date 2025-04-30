@@ -1,5 +1,5 @@
-<h1 align="center">👋 Hello, I'm Santhosh Guntupalli</h1>
-<h3 align="center">Experienced Data Engineer | Cloud & Machine Learning Enthusiast</h3>
+<h1 align="center">🚀 Santhosh Guntupalli</h1>
+<h3 align="center">Elite Data Engineer | ML & AI Strategist | Cloud-Native Architect</h3>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=guntupalli09&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views" />
@@ -9,74 +9,67 @@
 
 ## 🔍 About Me
 
-- <img src="satisfaction.png" height="25" /> Versatile Data Engineer with a strong foundation in Business Intelligence, Data Analysis, and Cloud Engineering, coupled with a deep passion for Data Science, Machine Learning, and Artificial Intelligence. Adept at building scalable data pipelines, driving insights through analytics, and deploying intelligent solutions that bridge the gap between raw data and strategic business outcomes. Proven ability to work across the data lifecycle — from data modeling and ETL processes to machine learning model deployment and AI-powered automation. Continuously exploring innovations at the intersection of data and intelligence to deliver impactful solutions.
+<img src="satisfaction.png" height="22" /> I’m a **versatile data and AI engineer** with a strong foundation in Business Intelligence, Data Analysis, and Cloud Infrastructure — and deep expertise in scalable pipelines, advanced ML models, and production-ready LLM workflows. I specialize in delivering end-to-end solutions that power real-time analytics, optimize performance, and enable intelligent automation.
 
+I thrive at the **intersection of engineering, intelligence, and product strategy**, delivering insights that move metrics and models that scale.
 
 ---
+
 ## 🧠 Technical Proficiency
-
----
 
 <details>
 <summary><strong>👷‍♂️ Data Engineering & Cloud</strong></summary>
 
-- **Languages:** Python, Scala, SQL, Shell
-- **Frameworks:** Spark, Kafka, Airflow, Flink, Hadoop
-- **Cloud Platforms:** AWS, GCP, Azure  
-- **Orchestration & Pipelines:** Airflow, ADF, Databricks, AWS Glue  
-- **Data Warehouses:** Redshift, Snowflake, BigQuery, Synapse  
-- **Streaming & Storage:** Kafka, S3, Delta Lake, HDFS  
-- **Infra & DevOps:** Docker, Kubernetes, Terraform, CI/CD  
-</details>
+- **Languages:** Python, Scala, SQL, Shell  
+- **Data Platforms:** Spark, Kafka, Flink, Hadoop  
+- **Pipelines:** Databricks, Airflow, ADF, AWS Glue  
+- **Cloud:** AWS, GCP, Azure | Data Lakes, Snowflake, Redshift, Synapse, BigQuery  
+- **Infra & CI/CD:** Docker, Kubernetes, Terraform, GitHub Actions  
 
----
+</details>
 
 <details>
 <summary><strong>🧠 AI / Machine Learning</strong></summary>
 
-- **Libraries:** TensorFlow, PyTorch, scikit-learn, PySpark, XGBoost  
-- **NLP & LLMs:** HuggingFace Transformers, LangChain, spaCy, NLTK  
-- **MLOps & Serving:** MLflow, FastAPI, Streamlit, BentoML  
-- **Specialties:** Recommendation Systems, Time Series, AutoML, RAG  
-</details>
+- **Frameworks:** PyTorch, TensorFlow, scikit-learn, PySpark  
+- **LLMs & NLP:** HuggingFace, LangChain, spaCy, NLTK  
+- **Model Deployment:** FastAPI, Streamlit, BentoML, MLflow  
+- **Specialties:** AutoML, Recommender Systems, Time Series (ARIMA, LSTM), RAG pipelines  
 
----
+</details>
 
 <details>
 <summary><strong>📊 Business Intelligence & Visualization</strong></summary>
 
-- **Tools:** Tableau, Power BI, Apache Superset, Jupyter  
-- **Skills:** Data Storytelling, KPI Dashboards, Executive Reporting  
-</details>
+- **Tools:** Tableau, Power BI, Superset, Jupyter  
+- **Focus:** Executive dashboards, KPI storytelling, real-time insights  
 
----
+</details>
 
 <details>
 <summary><strong>🗃️ Databases, APIs & File Formats</strong></summary>
 
 - **Databases:** PostgreSQL, MongoDB, MySQL, Oracle, DynamoDB  
-- **APIs & Formats:** REST, gRPC, JSON, Avro, Parquet, ORC, XML  
-</details>
+- **APIs:** REST, GraphQL, gRPC | JSON, Parquet, Avro, Protobuf  
 
----
+</details>
 
 <details>
-<summary><strong>🧩 Other Key Skills</strong></summary>
+<summary><strong>🧩 Other Strengths</strong></summary>
 
-- Agile / Scrum / Jira  
-- Unity Catalog, Data Lineage  
-- Performance Optimization & Cost Efficiency  
-- Cross-functional collaboration, mentoring, documentation  
+- Data Governance, Unity Catalog, Lineage Tracking  
+- Scalable System Design, Agile/Scrum, Cross-functional collaboration  
+- Performance Optimization, Cost Efficiency in Cloud Ops  
+
 </details>
-
 
 ---
 
 ## 🌐 Portfolio & Visualizations
 
-- 📝 <a href="https://guntupalli09.github.io/Santhosh_Guntupalli.github.io/"> <strong>Portfolio Website</strong></a>  
-- 📊 <a href="https://public.tableau.com/app/profile/santhosh.guntupalli/vizzes"> <strong>Tableau Visualizations</strong></a>  
-- 📫 <a href="mailto:santhosh.guntupalli09@gmail.com"> <strong>Email Me</strong></a>
+- 🔗 [**Portfolio Website**](https://guntupalli09.github.io/Santhosh_Guntupalli.github.io/)  
+- 📈 [**Tableau Dashboards**](https://public.tableau.com/app/profile/santhosh.guntupalli/vizzes)  
+- 📫 [**Email Me**](mailto:santhosh.guntupalli09@gmail.com)
 
 ---
 
@@ -98,15 +91,9 @@
 <table>
 <tr>
 <td width="60%">
-An AI-powered creative marketing workspace driven by LangChain and local LLMs.  
-Features five specialized AI agents simulating a real team for creative collaboration.
+An AI-first marketing platform simulating a creative team using LangChain & local LLMs. Five role-based agents collaborate in real-time to generate calendars, critiques, and campaigns.
 
-**Agents:**
-- 🎨 Zara: Creative strategist  
-- ✍️ Max: Content writer  
-- 📊 Mira: Research analyst  
-- 🔍 Eva: Critique expert  
-- 🛡️ Leo: Brand guardian  
+**Agents:** Zara (Creative), Max (Writer), Mira (Research), Eva (Critique), Leo (Brand Guardian)
 </td>
 <td>
 <img src="GW-content calender.png" alt="GhostWriter Teams" width="350" />
@@ -116,22 +103,19 @@ Features five specialized AI agents simulating a real team for creative collabor
 
 ---
 
-### 2. 🚀 GetGetLeads – AI Digital Marketing Agent
+### 2. ⚡ GetGetLeads – AI Digital Marketing Agent
 
 <table>
 <tr>
 <td width="60%">
-A marketing assistant for lead generation, campaign automation, and analytics — all in one platform.
+A centralized growth engine for lead gen, campaign automation, and analytics.
 
 **Features:**
-- 🧲 AI-Powered Lead Generation  
-- 📈 Campaign Performance Dashboards  
-- 🔍 SEO Tools with Smart Insights  
-- 🏷️ Keyword Position Tracking  
-- 💬 Lead CRM  
-- 💸 Budget Management  
-- 📅 Multi-Channel Automation
--  Social Media Automation
+- Lead capture with AI forms  
+- SEO analysis & keyword tracking  
+- Campaign automation + budget controls  
+- CRM for customer interactions  
+- Multi-platform posting and social automation
 </td>
 <td>
 <img src="dashboard-GGL.png" alt="GetGetLeads Dashboard" width="350" />
@@ -141,21 +125,19 @@ A marketing assistant for lead generation, campaign automation, and analytics �
 
 ---
 
-### 3. ✈️ GetGetPlaces – AI Travel Agent
+### 3. ✈️ GetGetPlaces – AI Travel Planner
 
 <table>
 <tr>
 <td width="60%">
-An intelligent travel planner using natural language, live weather data, and ML recommendations.
+A conversational travel agent powered by weather APIs, budget intelligence, and ML routing.
 
-**Key Features:**
-- 🗣️ Natural Language-Based Planning  
-- 🌤️ Real-Time Weather Integration  
-- 📍 Smart Routing & Time Calculation  
-- 🧠 AI Itinerary Generator  
-- 📈 Price Prediction (ARIMA)  
-- 🎯 Personalized Recommendations  
-- 🗃️ PostgreSQL Database Integration  
+**Core Functions:**
+- Natural language trip planning  
+- Weather-aware scheduling  
+- ARIMA price forecasting  
+- Personalized itineraries & smart routing  
+- DB-ready architecture with PostgreSQL backend  
 </td>
 <td>
 <img src="Homepage-GGP.png" alt="GetGetPlaces Screenshot" width="350" />
@@ -170,10 +152,9 @@ An intelligent travel planner using natural language, live weather data, and ML 
 <table>
 <tr>
 <td width="60%">
-A content-based recommender system that suggests films using NLP and TF-IDF techniques.
+A content-based recommendation system using NLP similarity scoring with TF-IDF and cosine distance.
 
-**Skills & Tools:**  
-scikit-learn, TensorFlow, NLTK, Flask, Pandas, Jupyter, Feature Engineering  
+**Stack:** Flask, scikit-learn, NLTK, Pandas, Jupyter  
 </td>
 <td>
 <img src="MRSSample.png" alt="Movie Recommender" width="350" />
@@ -183,25 +164,24 @@ scikit-learn, TensorFlow, NLTK, Flask, Pandas, Jupyter, Feature Engineering
 
 ---
 
-### 5. 📊 [Data Visualization Projects](https://public.tableau.com/app/profile/santhosh.guntupalli/vizzes)
+### 5. 📊 [Tableau Dashboards](https://public.tableau.com/app/profile/santhosh.guntupalli/vizzes)
 
-A portfolio of Tableau dashboards focused on domain knowledge, storytelling, and design.
+Advanced business visualizations for real-world use cases in healthcare, marketing, logistics, and more.
 
 ---
 
 ### 6. 📈 [Real-Time Stock Market Analysis](https://github.com/guntupalli09/stock_market-real_time-analysis)
 
-Live stock market insights using streaming data pipelines built on Kafka, AWS EC2, Glue, Athena.
+Live trend detection using Kafka streaming, AWS EC2, Glue, and Athena with optimized ETL jobs.
 
 ---
 
-### 7. 🐍 Snake Game – Python GUI
+### 7. 🐍 Snake Game (Tkinter)
 
 <table>
 <tr>
 <td width="60%">
-A Tkinter-based dynamic Snake Game showcasing GUI logic and event handling.  
-Demonstrates problem-solving and real-time interactions.
+A nostalgic Snake Game built using Python and Tkinter. Demonstrates GUI, event handling, and clean state transitions.
 </td>
 <td>
 <img src="PythonSnakeGame.gif" alt="Snake Game" width="350" />
@@ -211,13 +191,12 @@ Demonstrates problem-solving and real-time interactions.
 
 ---
 
-### 8. 🏓 Pong Game AI – NEAT Algorithm
+### 8. 🏓 Pong Game AI (NEAT Algorithm)
 
 <table>
 <tr>
 <td width="60%">
-An autonomous Pong-playing AI built using the NEAT algorithm.  
-Evolves neural networks through reinforcement learning to optimize performance.
+An AI that evolves to master Pong using NEAT (NeuroEvolution of Augmenting Topologies). Trained through reinforcement learning and fitness-based scoring.
 </td>
 <td>
 <img src="PythonPongGame-AI.gif" alt="Pong Game AI" width="350" />
@@ -229,12 +208,11 @@ Evolves neural networks through reinforcement learning to optimize performance.
 
 ## 📜 Certifications
 
-1. META – Database Structures and Management with MySQL  
-2. META – Version Control  
-3. META – Advanced MySQL  
-4. Prompt Engineering for ChatGPT – Vanderbilt University  
-5. IBM – Exploratory Data Analysis for ML  
-6. Machine Learning Specialization – University of Washington  
+- META: Database Structures & Advanced MySQL  
+- META: Version Control  
+- Prompt Engineering – Vanderbilt University  
+- IBM: EDA for Machine Learning  
+- ML Specialization – University of Washington  
 
 ---
 
