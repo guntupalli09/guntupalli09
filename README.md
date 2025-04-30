@@ -35,12 +35,15 @@ Jenkins, JIRA, Confluence, Tableau, Power BI, GitHub, Git, RESTful, Splunk, Prom
 
 <br/>
 <h3 align="left">PROJECTS:</h3>
+
 ### 1.Ghostwriters Teams
 <img align="right" src="GW-content calender.png" alt="santhoshguntupalli" height="200" width="400" />
 An AI-powered creative marketing workspace — driven by multi-agent collaboration, local LLMs, and real-time strategy generation. Instead of a single AI assistant, Ghostwriter Teams gives you 5 specialized AI agents, each with a unique personality, tone, and strategic purpose. They interact with each other (and the user) to simulate dynamic, intelligent brainstorms — resulting in more original, well-rounded, and deeply personalized outputs.
+
 ### 2. GetGetLeads - AI Digital Marketing Agent
 <img align="right" src="dashboard-GGL.png" alt="santhoshguntupalli" height="200" width="400" />
 AI-powered marketing assistant** for marketers, founders, and teams who want to drive growth without juggling ten tools. GetGetLeads brings lead generation, analytics, campaign automation, and more into one sleek, intelligent dashboard.
+
 ### 3. GetGetplace - AI Travel Agent
 <img align="right" src="Homepage-GGP.png" alt="santhoshguntupalli" height="200" width="400" />
 From idea to itinerary — AI-crafted travel made effortless.
