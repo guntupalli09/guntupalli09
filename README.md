@@ -9,9 +9,9 @@
 
 ## 🔍 About Me
 
-- <img src="satisfaction.png" height="25" /> I’m a Data Engineer with strong interests in **Cloud Engineering** and **Data Science**.
-- 🤝 Worked at **LTIMindtree** and **Mphasis** as a Data Engineer.
-- <img src="pencil.png" height="25" /> Passionate about large-scale data systems and machine intelligence.
+- <img src="satisfaction.png" height="25" /> Data Engineer with strong interests in **Cloud Engineering** and **Data Science**  
+- 🤝 Worked at **LTIMindtree** and **Mphasis**  
+- <img src="pencil.png" height="25" /> Passionate about distributed data systems and intelligent automation  
 
 ---
 
@@ -24,21 +24,21 @@ Python, Java, JavaScript, C, C#, C++, Scala, R, Shell Scripting, Golang
 AWS, GCP, Azure, Snowflake, Oracle, Docker, Kubernetes
 
 ### 🏗️ Big Data & Data Engineering <img src="big-data.png" height="25" />
-Spark, Kafka, Hadoop, Hive, Airflow, HBase, Nifi, Teradata, Amazon RedShift, MapReduce, Flume, Flink, Informatica, Talend, AWS Glue, Amazon S3, Databricks, ADF, Synapse Analytics, Trifacta, JSON, Avro, Parquet, ORC, XML, Protobuf, ELK Stack, PostgreSQL, MongoDB, BigQuery, Elasticsearch, HDFS, Metastore
+Spark, Kafka, Hadoop, Hive, Airflow, HBase, Nifi, Teradata, Redshift, MapReduce, Flume, Flink, Informatica, Talend, AWS Glue, S3, Databricks, ADF, Synapse, Trifacta, JSON, Avro, Parquet, ORC, XML, Protobuf, PostgreSQL, MongoDB, BigQuery, Elasticsearch, ELK Stack, HDFS
 
 ### 🤖 Machine Learning <img src="machine-learning.png" height="25" />
 TensorFlow, PyTorch, scikit-learn, PySpark, NLTK, LLMs
 
-### ⚙️ DevOps & Monitoring Tools <img src="tool-box.png" height="25" />
-Jenkins, JIRA, Confluence, Tableau, Power BI, GitHub, Git, RESTful APIs, Splunk, Prometheus, PowerShell, Linux, Bash, Pub/Sub, Jupyter Notebooks, PyCharm
+### ⚙️ DevOps & Tools <img src="tool-box.png" height="25" />
+Jenkins, GitHub, Git, JIRA, Confluence, REST APIs, Tableau, Power BI, Prometheus, Splunk, PowerShell, Linux, Bash, Pub/Sub, Jupyter Notebooks, PyCharm
 
 ---
 
 ## 🌐 Portfolio & Visualizations
 
-- 📝 <a href="https://guntupalli09.github.io/Santhosh_Guntupalli.github.io/"><img src="portfolio.png" height="20" /> <strong>Portfolio Website</strong></a>
-- 📊 <a href="https://public.tableau.com/app/profile/santhosh.guntupalli/vizzes"><img src="visualisation.png" height="20" /> <strong>Tableau Visualizations</strong></a>
-- 📫 <a href="mailto:santhosh.guntupalli09@gmail.com"><img src="https://user-images.githubusercontent.com/56149197/218254506-dd38dc25-4dc9-4f24-be93-d05a7be9c3d6.png" height="20" /> <strong>santhosh.guntupalli09@gmail.com</strong></a>
+- 📝 <a href="https://guntupalli09.github.io/Santhosh_Guntupalli.github.io/"><img src="portfolio.png" height="20" /> <strong>Portfolio Website</strong></a>  
+- 📊 <a href="https://public.tableau.com/app/profile/santhosh.guntupalli/vizzes"><img src="visualisation.png" height="20" /> <strong>Tableau Visualizations</strong></a>  
+- 📫 <a href="mailto:santhosh.guntupalli09@gmail.com"><img src="https://user-images.githubusercontent.com/56149197/218254506-dd38dc25-4dc9-4f24-be93-d05a7be9c3d6.png" height="20" /> <strong>Email Me</strong></a>
 
 ---
 
@@ -55,81 +55,147 @@ Jenkins, JIRA, Confluence, Tableau, Power BI, GitHub, Git, RESTful APIs, Splunk,
 
 ## 🚀 Featured Projects
 
-### 1. GhostWriter Teams  
-<img align="right" src="GW-content calender.png" alt="GhostWriter Teams" height="200" width="400" />
-An AI-powered marketing workspace with five specialized AI agents (Zara, Max, Mira, Eva, Leo) designed to simulate a dynamic creative team using local LLMs and LangChain.
+### 1. GhostWriter Teams
+
+<table>
+<tr>
+<td width="60%">
+An AI-powered creative marketing workspace driven by LangChain and local LLMs.  
+Features five specialized AI agents simulating a real team for creative collaboration.
+
+**Agents:**
+- 🎨 Zara: Creative strategist  
+- ✍️ Max: Content writer  
+- 📊 Mira: Research analyst  
+- 🔍 Eva: Critique expert  
+- 🛡️ Leo: Brand guardian  
+</td>
+<td>
+<img src="GW-content calender.png" alt="GhostWriter Teams" width="350" />
+</td>
+</tr>
+</table>
 
 ---
 
-### 2. GetGetLeads – AI Digital Marketing Agent  
-<img align="right" src="dashboard-GGL.png" alt="GetGetLeads" width="300" />
+### 2. GetGetLeads – AI Digital Marketing Agent
+
+<table>
+<tr>
+<td width="60%">
 A marketing assistant for lead generation, campaign automation, and analytics — all in one platform.
 
-**Features**  
+**Features:**
 - 🧲 AI-Powered Lead Generation  
 - 📈 Campaign Performance Dashboards  
 - 🔍 SEO Tools with Smart Insights  
 - 🏷️ Keyword Position Tracking  
 - 💬 Lead CRM  
 - 💸 Budget Management  
-- 📅 Multi-Channel Automation
+- 📅 Multi-Channel Automation  
+</td>
+<td>
+<img src="dashboard-GGL.png" alt="GetGetLeads Dashboard" width="350" />
+</td>
+</tr>
+</table>
 
 ---
 
-### 3. GetGetPlaces – AI Travel Agent  
-<img align="right" src="Homepage-GGP.png" alt="GetGetPlaces" height="200" width="400" />
+### 3. GetGetPlaces – AI Travel Agent
+
+<table>
+<tr>
+<td width="60%">
 An intelligent travel planner using natural language, live weather data, and ML recommendations.
 
-**Key Features**  
-- Natural Language-Based Planning  
-- Real-Time Weather Integration  
-- Smart Routing & Time Calculation  
-- AI Itinerary Generator  
-- Price Prediction (ARIMA)  
-- Personalized Recommendations  
-- PostgreSQL Database Integration
+**Key Features:**
+- 🗣️ Natural Language-Based Planning  
+- 🌤️ Real-Time Weather Integration  
+- 📍 Smart Routing & Time Calculation  
+- 🧠 AI Itinerary Generator  
+- 📈 Price Prediction (ARIMA)  
+- 🎯 Personalized Recommendations  
+- 🗃️ PostgreSQL Database Integration  
+</td>
+<td>
+<img src="Homepage-GGP.png" alt="GetGetPlaces Screenshot" width="350" />
+</td>
+</tr>
+</table>
 
 ---
 
-### [4. Movie Recommendation Engine](https://mrs-sg-bfc2e6fa78db.herokuapp.com/)  
-<img align="right" src="MRSSample.png" alt="Movie Recommendation Engine" height="200" width="400" />
-A content-based system that recommends films based on user input using NLP, TF-IDF, and Python.
+### 4. [Movie Recommendation Engine](https://mrs-sg-bfc2e6fa78db.herokuapp.com/)
+
+<table>
+<tr>
+<td width="60%">
+A content-based recommender system that suggests films using NLP and TF-IDF techniques.
 
 **Skills & Tools:**  
-scikit-learn, TensorFlow, NLTK, Flask, Pandas, Jupyter, Feature Engineering
+scikit-learn, TensorFlow, NLTK, Flask, Pandas, Jupyter, Feature Engineering  
+</td>
+<td>
+<img src="MRSSample.png" alt="Movie Recommender" width="350" />
+</td>
+</tr>
+</table>
 
 ---
 
-### [5. Data Visualization Projects](https://public.tableau.com/app/profile/santhosh.guntupalli/vizzes)  
-A collection of dashboards highlighting domain knowledge, data storytelling, and visualization techniques.
+### 5. [Data Visualization Projects](https://public.tableau.com/app/profile/santhosh.guntupalli/vizzes)
+
+A portfolio of Tableau dashboards focused on domain knowledge, storytelling, and design.
 
 ---
 
-### [6. Real-Time Stock Market Analysis](https://github.com/guntupalli09/stock_market-real_time-analysis)  
-Live financial data insights using Kafka, AWS Glue, EC2, and Athena.
+### 6. [Real-Time Stock Market Analysis](https://github.com/guntupalli09/stock_market-real_time-analysis)
+
+Live stock market insights using streaming data pipelines built on Kafka, AWS EC2, Glue, Athena.
 
 ---
 
-### 7. Snake Game – Python GUI  
-<img src="PythonSnakeGame.gif" alt="Snake Game" height="200" width="400" />  
-A Tkinter-based dynamic Snake Game demonstrating GUI programming and real-time event handling.
+### 7. Snake Game – Python GUI
+
+<table>
+<tr>
+<td width="60%">
+A Tkinter-based dynamic Snake Game showcasing GUI logic and event handling.  
+Demonstrates problem-solving and real-time interactions.
+</td>
+<td>
+<img src="PythonSnakeGame.gif" alt="Snake Game" width="350" />
+</td>
+</tr>
+</table>
 
 ---
 
-### 8. Pong Game AI – NEAT Algorithm  
-<img src="PythonPongGame-AI.gif" alt="Pong Game AI" height="200" width="400" />  
-An autonomous Pong-playing AI developed using NEAT (NeuroEvolution of Augmenting Topologies).
+### 8. Pong Game AI – NEAT Algorithm
+
+<table>
+<tr>
+<td width="60%">
+An autonomous Pong-playing AI built using the NEAT algorithm.  
+Evolves neural networks through reinforcement learning to optimize performance.
+</td>
+<td>
+<img src="PythonPongGame-AI.gif" alt="Pong Game AI" width="350" />
+</td>
+</tr>
+</table>
 
 ---
 
 ## 📜 Certifications
 
-1. META: Database Structures and Management with MySQL  
-2. META: Version Control  
-3. META: Advanced MySQL  
+1. META – Database Structures and Management with MySQL  
+2. META – Version Control  
+3. META – Advanced MySQL  
 4. Prompt Engineering for ChatGPT – Vanderbilt University  
-5. IBM: Exploratory Data Analysis for ML  
-6. Machine Learning Specialization – University of Washington
+5. IBM – Exploratory Data Analysis for ML  
+6. Machine Learning Specialization – University of Washington  
 
 ---
 
@@ -137,6 +203,3 @@ An autonomous Pong-playing AI developed using NEAT (NeuroEvolution of Augmenting
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=guntupalli09&show_icons=true&theme=tokyonight)  
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=guntupalli09&theme=tokyonight)
-
-
-
