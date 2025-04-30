@@ -35,9 +35,9 @@ Jenkins, GitHub, Git, JIRA, Confluence, REST APIs, Tableau, Power BI, Prometheus
 
 ## 🌐 Portfolio & Visualizations
 
-- 📝 <a href="https://guntupalli09.github.io/Santhosh_Guntupalli.github.io/">
-- 📊 <a href="https://public.tableau.com/app/profile/santhosh.guntupalli/vizzes">
-- 📫 <a href="mailto:santhosh.guntupalli09@gmail.com">
+- 📝 <a href="https://guntupalli09.github.io/Santhosh_Guntupalli.github.io/"> <strong>Portfolio Website</strong></a>  
+- 📊 <a href="https://public.tableau.com/app/profile/santhosh.guntupalli/vizzes"> <strong>Tableau Visualizations</strong></a>  
+- 📫 <a href="mailto:santhosh.guntupalli09@gmail.com"> <strong>Email Me</strong></a>
 
 ---
 
