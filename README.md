@@ -9,9 +9,8 @@
 
 ## 🔍 About Me
 
-- <img src="satisfaction.png" height="25" /> Data Engineer with strong interests in **Cloud Engineering** and **Data Science**  
-- 🤝 Worked at **LTIMindtree** and **Mphasis**  
-- <img src="pencil.png" height="25" /> Passionate about distributed data systems and intelligent automation  
+- <img src="satisfaction.png" height="25" /> Data Engineer with strong interests in **Cloud Engineering**, **Data Science**  and **Artificial Intelligence**
+
 
 ---
 
