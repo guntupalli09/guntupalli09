@@ -13,23 +13,96 @@
 
 
 ---
-
 ## 🧠 Technical Proficiency
 
+---
+
 ### 👨‍💻 Programming Languages & Frameworks
-Python, Java, JavaScript, C, C#, C++, Scala, R, Shell Scripting, Golang
 
-### ☁️ Cloud Technologies
-AWS, GCP, Azure, Snowflake, Oracle, Docker, Kubernetes
+![Python](https://img.shields.io/badge/-Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Java](https://img.shields.io/badge/-Java-007396?style=for-the-badge&logo=java&logoColor=white)
+![Scala](https://img.shields.io/badge/-Scala-DC322F?style=for-the-badge&logo=scala&logoColor=white)
+![Golang](https://img.shields.io/badge/-Go-00ADD8?style=for-the-badge&logo=go&logoColor=white)
+![Shell](https://img.shields.io/badge/-Bash-4EAA25?style=for-the-badge&logo=gnu-bash&logoColor=white)
+![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![R](https://img.shields.io/badge/-R-276DC3?style=for-the-badge&logo=r&logoColor=white)
 
-### 🏗️ Big Data & Data Engineering
-Spark, Kafka, Hadoop, Hive, Airflow, HBase, Nifi, Teradata, Redshift, MapReduce, Flume, Flink, Informatica, Talend, AWS Glue, S3, Databricks, ADF, Synapse, Trifacta, JSON, Avro, Parquet, ORC, XML, Protobuf, PostgreSQL, MongoDB, BigQuery, Elasticsearch, ELK Stack, HDFS
+---
 
-### 🤖 Machine Learning 
-TensorFlow, PyTorch, scikit-learn, PySpark, NLTK, LLMs
+### ☁️ Cloud Platforms, DevOps & MLOps
 
-### ⚙️ DevOps & Tools
-Jenkins, GitHub, Git, JIRA, Confluence, REST APIs, Tableau, Power BI, Prometheus, Splunk, PowerShell, Linux, Bash, Pub/Sub, Jupyter Notebooks, PyCharm
+![AWS](https://img.shields.io/badge/-AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
+![Azure](https://img.shields.io/badge/-Azure-0078D4?style=for-the-badge&logo=microsoft-azure&logoColor=white)
+![GCP](https://img.shields.io/badge/-GCP-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white)
+![Docker](https://img.shields.io/badge/-Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Kubernetes](https://img.shields.io/badge/-Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
+![Terraform](https://img.shields.io/badge/-Terraform-7B42BC?style=for-the-badge&logo=terraform&logoColor=white)
+![MLflow](https://img.shields.io/badge/-MLflow-0194E2?style=for-the-badge)
+![Airflow](https://img.shields.io/badge/-Airflow-017CEE?style=for-the-badge&logo=apache-airflow&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/-GitHub%20Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white)
+![CI/CD](https://img.shields.io/badge/-CI/CD-E10098?style=for-the-badge)
+
+---
+
+### 🏗️ Data Engineering & Pipelines
+
+- Distributed Data Processing: **Apache Spark, Kafka, Hadoop, Flink, MapReduce**  
+- Orchestration & Scheduling: **Apache Airflow, Azure Data Factory, Prefect**  
+- Real-Time Streaming: **Kafka, Spark Streaming, Flink, Pub/Sub**  
+- Data Lakes / Warehouses: **Amazon S3, Redshift, Delta Lake, Snowflake, BigQuery, Azure Synapse**  
+- Metadata & Governance: **Unity Catalog, Data Lineage, Great Expectations, Amundsen**  
+- Data Modeling: **Kimball, Data Vault 2.0, Star & Snowflake Schema**
+
+---
+
+### 🤖 Machine Learning & AI (Production-Ready)
+
+![TensorFlow](https://img.shields.io/badge/-TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
+![PyTorch](https://img.shields.io/badge/-PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
+![scikit-learn](https://img.shields.io/badge/-Scikit--Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
+![Transformers](https://img.shields.io/badge/-HuggingFace-FFD21F?style=for-the-badge)
+![LangChain](https://img.shields.io/badge/-LangChain-4B8BBE?style=for-the-badge)
+![LLMs](https://img.shields.io/badge/-LLMs-%23?style=for-the-badge)
+
+- Model Lifecycle: **MLflow, DVC, FastAPI for serving, Streamlit for prototyping**
+- Feature Engineering: **Vectorization, Feature Store, Featuretools**
+- Time Series: **ARIMA, Prophet, LSTM**
+- Natural Language Processing: **spaCy, NLTK, Transformers, RAG**
+- Recommender Systems: **Collaborative Filtering, Content-Based, Hybrid**
+- AutoML: **H2O.ai, Auto-sklearn, AWS SageMaker Autopilot**
+
+---
+
+### 📊 BI, Data Visualization & Insights
+
+![Tableau](https://img.shields.io/badge/-Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white)
+![Power BI](https://img.shields.io/badge/-Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
+![Superset](https://img.shields.io/badge/-Apache%20Superset-E25465?style=for-the-badge&logo=apache&logoColor=white)
+![Jupyter](https://img.shields.io/badge/-Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
+
+- Dashboarding & Storytelling  
+- Real-time KPI Monitoring  
+- Advanced SQL for BI / Ad-hoc insights  
+- Predictive Analytics Reporting
+
+---
+
+### 📦 Databases, Formats & APIs
+
+- Relational: **PostgreSQL, MySQL, Oracle, MSSQL**
+- NoSQL: **MongoDB, DynamoDB, Elasticsearch, HBase**
+- Data Formats: **Parquet, Avro, ORC, JSON, XML, Protobuf**
+- APIs: **RESTful, GraphQL, FastAPI, Flask, gRPC**
+
+---
+
+### 🧩 Soft Skills & Extras
+
+- Agile, Scrum, DevOps Collaboration  
+- System Design & Cloud Architecture  
+- Team Mentorship, Documentation  
+- Business Alignment: Translating technical results into executive insights  
+- Critical Thinking, Performance Optimization, Cost Efficiency Design
 
 ---
 
