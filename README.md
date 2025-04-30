@@ -16,19 +16,19 @@
 
 ## 🧠 Technical Proficiency
 
-### 👨‍💻 Programming Languages & Frameworks <img src="programming.png" height="25" />
+### 👨‍💻 Programming Languages & Frameworks
 Python, Java, JavaScript, C, C#, C++, Scala, R, Shell Scripting, Golang
 
-### ☁️ Cloud Technologies <img src="cloud.png" height="25" />
+### ☁️ Cloud Technologies
 AWS, GCP, Azure, Snowflake, Oracle, Docker, Kubernetes
 
-### 🏗️ Big Data & Data Engineering <img src="big-data.png" height="25" />
+### 🏗️ Big Data & Data Engineering
 Spark, Kafka, Hadoop, Hive, Airflow, HBase, Nifi, Teradata, Redshift, MapReduce, Flume, Flink, Informatica, Talend, AWS Glue, S3, Databricks, ADF, Synapse, Trifacta, JSON, Avro, Parquet, ORC, XML, Protobuf, PostgreSQL, MongoDB, BigQuery, Elasticsearch, ELK Stack, HDFS
 
-### 🤖 Machine Learning <img src="machine-learning.png" height="25" />
+### 🤖 Machine Learning 
 TensorFlow, PyTorch, scikit-learn, PySpark, NLTK, LLMs
 
-### ⚙️ DevOps & Tools <img src="tool-box.png" height="25" />
+### ⚙️ DevOps & Tools
 Jenkins, GitHub, Git, JIRA, Confluence, REST APIs, Tableau, Power BI, Prometheus, Splunk, PowerShell, Linux, Bash, Pub/Sub, Jupyter Notebooks, PyCharm
 
 ---
