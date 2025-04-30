@@ -91,7 +91,8 @@ A marketing assistant for lead generation, campaign automation, and analytics �
 - 🏷️ Keyword Position Tracking  
 - 💬 Lead CRM  
 - 💸 Budget Management  
-- 📅 Multi-Channel Automation  
+- 📅 Multi-Channel Automation
+-  Social Media Automation
 </td>
 <td>
 <img src="dashboard-GGL.png" alt="GetGetLeads Dashboard" width="350" />
