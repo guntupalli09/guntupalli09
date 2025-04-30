@@ -44,13 +44,13 @@ An AI-powered creative marketing workspace — driven by multi-agent collaborati
 <img align="right" src="dashboard-GGL.png" alt="santhoshguntupalli" height="200" width="400" />
 AI-powered marketing assistant** for marketers, founders, and teams who want to drive growth without juggling ten tools. GetGetLeads brings lead generation, analytics, campaign automation, and more into one sleek, intelligent dashboard.
 ✨ Features
-🧲 Lead Generation – Capture and qualify leads with AI-powered forms and prompts
-📈 Analytics – Visual dashboards to track campaign performance and customer insights
-🔍 SEO Tools – Boost your visibility with site health tracking and recommendations
-🏷️ Keyword Tracking – Monitor keyword positions and performance over time
-💬 Customer Management – Organize leads, track interactions, and follow up seamlessly
-💸 Budget Management – Visualize spend across tools, ads, and campaigns
-📅 Campaign Automation – Schedule posts and emails across channels in one place
+-🧲 Lead Generation – Capture and qualify leads with AI-powered forms and prompts
+-📈 Analytics – Visual dashboards to track campaign performance and customer insights
+-🔍 SEO Tools – Boost your visibility with site health tracking and recommendations
+-🏷️ Keyword Tracking – Monitor keyword positions and performance over time
+-💬 Customer Management – Organize leads, track interactions, and follow up seamlessly
+-💸 Budget Management – Visualize spend across tools, ads, and campaigns
+-📅 Campaign Automation – Schedule posts and emails across channels in one place
 
 ### 3. GetGetplace - AI Travel Agent
 <img align="right" src="Homepage-GGP.png" alt="santhoshguntupalli" height="200" width="400" />
