@@ -119,13 +119,10 @@ GetGetLeads is a comprehensive, all-in-one platform designed specifically for sm
 - Reviews & Referrals Automation
 - Analytics Dashboard
 - Niche-Specific Support
-    Salon/Hair Styling: Appointment reminders, service follow-ups, review requests
-    Med Spa: HIPAA-compliant communications, treatment plans, consultation automation
-    Real Estate: Market updates, open house campaigns, lead nurturing
 - Multi-platform posting and social automation
 </td>
 <td>
-<img src="dashboard-GGL.png" alt="GetGetLeads Dashboard" width="350" />
+<img src="GGL- Demo page.png" alt="GetGetLeads Dashboard" width="350" />
 </td>
 </tr>
 </table>
