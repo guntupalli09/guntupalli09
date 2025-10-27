@@ -105,8 +105,8 @@ GetGetLeads is a comprehensive, all-in-one platform designed specifically for sm
 - Multi-platform posting and social automation
 </td>
 <td>
-<img src="GGL- Demo page.png" alt="GetGetLeads Dashboard" width="350" />
-<img src="GGL- Demo page.png" alt="GetGetLeads Dashboard" width="350" />
+<img src="GGL- Login page.png" alt="GetGetLeads Login" width="200" />
+<img src="GGL- Demo page.png" alt="GetGetLeads Dashboard" width="200" />
 </td>
 </tr>
 </table>
