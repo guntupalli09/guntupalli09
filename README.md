@@ -1,5 +1,5 @@
 <h1 align="center">🚀 Santhosh Guntupalli</h1>
-<h3 align="center">Elite Data Engineer | ML & AI Strategist | Cloud-Native Architect</h3>
+<h3 align="center"> Data Engineer | ML & AI Enthusiast | Cloud Architect</h3>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=guntupalli09&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views" />
