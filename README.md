@@ -103,18 +103,25 @@ An AI-first marketing platform simulating a creative team using LangChain & loca
 
 ---
 
-### 2. ⚡ GetGetLeads – AI Digital Marketing Agent
+### 2. ⚡ GetGetLeads – AI Lead-to-booking & Digital Marketing Agent
 
 <table>
 <tr>
 <td width="60%">
-A centralized growth engine for lead gen, campaign automation, and analytics.
+GetGetLeads is a comprehensive, all-in-one platform designed specifically for small businesses in the salon, med spa, and real estate industries. It combines lead generation, CRM, email automation, social media automation, calendar management, and AI-powered content generation to help small businesses scale efficiently.
 
 **Features:**
-- Lead capture with AI forms  
-- SEO analysis & keyword tracking  
-- Campaign automation + budget controls  
-- CRM for customer interactions  
+- Smart Lead Management**
+- AI-Powered Email Automation
+- Calendar Integration
+- Google Calendar two-way sync
+- AI Content Generation
+- Reviews & Referrals Automation
+- Analytics Dashboard
+- Niche-Specific Support
+    Salon/Hair Styling: Appointment reminders, service follow-ups, review requests
+    Med Spa: HIPAA-compliant communications, treatment plans, consultation automation
+    Real Estate: Market updates, open house campaigns, lead nurturing
 - Multi-platform posting and social automation
 </td>
 <td>
