@@ -86,7 +86,7 @@ I thrive at the **intersection of engineering, intelligence, and product strateg
 
 ## 🚀 Featured Projects
 
-### 1. ⚡ GetGetLeads – AI Lead-to-booking & Digital Marketing Agent
+### 1. ⚡ [GetGetLeads – AI Lead-to-booking & Digital Marketing Agent](https://www.getgetleads.com/login)
 
 <table>
 <tr>
