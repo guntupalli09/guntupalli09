@@ -86,24 +86,7 @@ I thrive at the **intersection of engineering, intelligence, and product strateg
 
 ## 🚀 Featured Projects
 
-### 1. 👥 GhostWriter Teams
-
-<table>
-<tr>
-<td width="60%">
-An AI-first marketing platform simulating a creative team using LangChain & local LLMs. Five role-based agents collaborate in real-time to generate calendars, critiques, and campaigns.
-
-**Agents:** Zara (Creative), Max (Writer), Mira (Research), Eva (Critique), Leo (Brand Guardian)
-</td>
-<td>
-<img src="GW-content calender.png" alt="GhostWriter Teams" width="350" />
-</td>
-</tr>
-</table>
-
----
-
-### 2. ⚡ GetGetLeads – AI Lead-to-booking & Digital Marketing Agent
+### 1. ⚡ GetGetLeads – AI Lead-to-booking & Digital Marketing Agent
 
 <table>
 <tr>
@@ -123,6 +106,22 @@ GetGetLeads is a comprehensive, all-in-one platform designed specifically for sm
 </td>
 <td>
 <img src="GGL- Demo page.png" alt="GetGetLeads Dashboard" width="350" />
+</td>
+</tr>
+</table>
+
+---
+### 2. 👥 GhostWriter Teams
+
+<table>
+<tr>
+<td width="60%">
+An AI-first marketing platform simulating a creative team using LangChain & local LLMs. Five role-based agents collaborate in real-time to generate calendars, critiques, and campaigns.
+
+**Agents:** Zara (Creative), Max (Writer), Mira (Research), Eva (Critique), Leo (Brand Guardian)
+</td>
+<td>
+<img src="GW-content calender.png" alt="GhostWriter Teams" width="350" />
 </td>
 </tr>
 </table>
