@@ -94,7 +94,7 @@ I thrive at the **intersection of engineering, intelligence, and product strateg
 GetGetLeads is a comprehensive, all-in-one platform designed specifically for small businesses in the salon, med spa, and real estate industries. It combines lead generation, CRM, email automation, social media automation, calendar management, and AI-powered content generation to help small businesses scale efficiently.
 
 **Features:**
-- Smart Lead Management**
+- Smart Lead Management
 - AI-Powered Email Automation
 - Calendar Integration
 - Google Calendar two-way sync
