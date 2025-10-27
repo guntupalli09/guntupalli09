@@ -106,7 +106,6 @@ GetGetLeads is a comprehensive, all-in-one platform designed specifically for sm
 </td>
 <td>
 <img src="GGL- Login page.png" alt="GetGetLeads Login" width="250" />
-</td>
 <img src="GGL- Demo page.png" alt="GetGetLeads Dashboard" width="350" />
 </td>
 </tr>
