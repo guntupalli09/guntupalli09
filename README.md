@@ -86,7 +86,23 @@ I thrive at the **intersection of engineering, intelligence, and product strateg
 
 ## 🚀 Featured Projects
 
-### 1. ⚡ [GetGetLeads – AI Lead-to-booking & Digital Marketing Agent](https://www.getgetleads.com/login)
+### 1. Neuroevolutionary Pong agent (NEAT Algorithm)
+
+<table>
+<tr>
+<td width="60%">
+Neuroevolutionary Pong agent built using NEAT (NeuroEvolution of Augmenting Topologies), studying how learning dynamics, reward design, and network complexity co-evolve across generations. Emphasizes population-level optimization behavior and emergent strategy rather than hand-engineered policies.
+Includes learning-curve and network-complexity visualizations to analyze evolutionary convergence and structural adaptation.
+
+</td>
+<td>
+<img src="PythonPongGame-AI.gif" alt="Pong Game AI" width="350" />
+</td>
+</tr>
+</table>
+
+---
+### 2. ⚡ [GetGetLeads – AI Lead-to-booking & Digital Marketing Agent](https://www.getgetleads.com/login)
 
 <table>
 <tr>
@@ -112,7 +128,7 @@ GetGetLeads is a comprehensive, all-in-one platform designed specifically for sm
 </table>
 
 ---
-### 2. 👥 GhostWriter Teams
+### 3. 👥 GhostWriter Teams
 
 <table>
 <tr>
@@ -129,7 +145,7 @@ An AI-first marketing platform simulating a creative team using LangChain & loca
 
 ---
 
-### 3. ✈️ GetGetPlaces – AI Travel Planner
+### 4. ✈️ GetGetPlaces – AI Travel Planner
 
 <table>
 <tr>
@@ -151,7 +167,7 @@ A conversational travel agent powered by weather APIs, budget intelligence, and 
 
 ---
 
-### 4. 🎬 [Movie Recommendation Engine](https://mrs-sg-bfc2e6fa78db.herokuapp.com/)
+### 5. 🎬 [Movie Recommendation Engine](https://mrs-sg-bfc2e6fa78db.herokuapp.com/)
 
 <table>
 <tr>
@@ -168,19 +184,19 @@ A content-based recommendation system using NLP similarity scoring with TF-IDF a
 
 ---
 
-### 5. 📊 [Tableau Dashboards](https://public.tableau.com/app/profile/santhosh.guntupalli/vizzes)
+### 6. 📊 [Tableau Dashboards](https://public.tableau.com/app/profile/santhosh.guntupalli/vizzes)
 
 Advanced business visualizations for real-world use cases in healthcare, marketing, logistics, and more.
 
 ---
 
-### 6. 📈 [Real-Time Stock Market Analysis](https://github.com/guntupalli09/stock_market-real_time-analysis)
+### 7. 📈 [Real-Time Stock Market Analysis](https://github.com/guntupalli09/stock_market-real_time-analysis)
 
 Live trend detection using Kafka streaming, AWS EC2, Glue, and Athena with optimized ETL jobs.
 
 ---
 
-### 7. 🐍 Snake Game (Tkinter)
+### 8. 🐍 Snake Game (Tkinter)
 
 <table>
 <tr>
@@ -195,20 +211,6 @@ A nostalgic Snake Game built using Python and Tkinter. Demonstrates GUI, event h
 
 ---
 
-### 8. 🏓 Pong Game AI (NEAT Algorithm)
-
-<table>
-<tr>
-<td width="60%">
-An AI that evolves to master Pong using NEAT (NeuroEvolution of Augmenting Topologies). Trained through reinforcement learning and fitness-based scoring.
-</td>
-<td>
-<img src="PythonPongGame-AI.gif" alt="Pong Game AI" width="350" />
-</td>
-</tr>
-</table>
-
----
 
 ## 📜 Certifications
 
