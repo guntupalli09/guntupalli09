@@ -64,6 +64,14 @@ NEAT-based agent exploring evolutionary learning dynamics, reward design, and ne
 **Infrastructure:** Docker, Git, CI/CD  
 **AI Systems:** deterministic rule engines, LLM trust boundaries, evaluation harnesses, structured outputs, audit trails
 
+## Selected Recognition
+
+- Ethics Reviewer — NeurIPS 2026
+- Program Committee Reviewer — ACM SIGCSE Technical Symposium 2027
+- Reviewer — IEEE FMLDS 2026
+- Featured by Legally Speaking Podcast for work on reproducibility, traceability, and defensibility in legal AI
+- Featured by Legal Tech StartUp Focus for deterministic and auditable AI architectures applied to TriageCounsel
+
 ## Links
 
 - [TriageCounsel](https://triagecounsel.com)
