@@ -14,20 +14,20 @@ My research on deterministic and auditable AI systems has been published/accepte
 ### TriageCounsel
 https://triagecounsel.com
 
-I built TriageCounsel, a deterministic contract-review platform that turns a legal team's approved playbook into reproducible policy decisions while keeping unresolved judgment with lawyers.
+I built TriageCounsel, a deterministic contract-review platform that turns approved legal playbooks into reproducible policy decisions while keeping unresolved judgment with lawyers.
 
 **Core architecture**
 - **Governed executable playbooks** — legal teams encode preferred positions, acceptable boundaries, fallbacks, hard stops, and escalation paths.
 - **Evidence-backed fact admission** — deterministic and AI-proposed candidates must pass verification and grounding before becoming authoritative policy inputs.
-- **12 policy engines** — including liability, indemnification, termination, confidentiality, assignment, governing law, data security, IP, insurance, payment terms, warranties, and SLAs.
-- **Cross-Policy Interaction Engine** — detects when independently evaluated provisions need to be considered together rather than treating every clause in isolation.
-- **Dependency-aware review** — changing a participating provision invalidates dependent conclusions and requires reconfirmation.
-- **Auditable replay** — decisions, evidence, policy state, and revision metadata are preserved so authoritative results can be inspected and reproduced.
+- **12 governed policy engines** — liability, indemnification, termination, confidentiality, assignment, governing law, data security, IP, insurance, payment terms, warranties, and SLAs.
+- **Cross-Policy Interaction Engine** — detects when independently evaluated provisions need to be considered together rather than treating clauses in isolation.
+- **Dependency-aware review** — when a participating provision changes, dependent interaction conclusions are invalidated and require reconfirmation.
+- **Auditable replay** — decisions, evidence, policy state, and revision metadata are preserved for inspection and reproducibility.
 
 **Validation**
 - 189 deterministic rules across 22 commercial contract scopes
 - Benchmarked against 4,190 SEC-filed contracts
-- 100% deterministic replay for authoritative findings
+- Deterministic replay: identical contract + ruleset → identical authoritative findings
 
 ### VideoText
 https://videotext.io
